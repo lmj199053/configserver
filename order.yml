@@ -12,6 +12,6 @@ eureka:
 mybatis:
   mapperLocations: classpath:mappers/*.xml
 server:
-  port: 8084
+  port: 8085
 env:
   dev
