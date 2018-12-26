@@ -5,6 +5,8 @@ spring:
     url: jdbc:mysql://192.168.1.245:3306/vill_cloud
     username: root
     password: 123456
+  application:
+    name: order2
 eureka:
   client:
     service-url:
