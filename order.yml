@@ -4,7 +4,7 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://192.168.1.245:3306/vill_cloud
     username: root
-    password: 123456
+    password: 1234562
   application:
     name: order3
 eureka:
